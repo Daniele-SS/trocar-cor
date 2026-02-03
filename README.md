@@ -44,4 +44,3 @@ Para tornar o projeto ainda mais robusto, as seguintes funcionalidades podem ser
 ## Autora
 
 [Daniele Silva Santos](https://www.linkedin.com/in/danielesilvasantos/)
-
