@@ -2,7 +2,7 @@
 
 Um projeto interativo desenvolvido em HTML, CSS e JavaScript que permite alterar a cor de fundo da página. O diferencial é o suporte a nomes de cores em **português**, além de padrões internacionais.
 
-![Demonstração do Projeto](https://via.placeholder.com/600x300.png?text=Inserir+GIF+do+Projeto+Aqui)
+---
 
 ## 🚀 Como funciona?
 
@@ -43,5 +43,5 @@ Para tornar o projeto ainda mais robusto, as seguintes funcionalidades podem ser
 ---
 ## Autora
 
-Daniele Silva Santos
+[Daniele Silva Santos](https://www.linkedin.com/in/danielesilvasantos/)
 
